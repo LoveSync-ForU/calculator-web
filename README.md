@@ -26,7 +26,6 @@ Kalkulator sederhana yang dibuat dengan HTML, CSS, dan JavaScript yang memiliki 
 - `calculator.html` - File HTML utama
 - `calculator.css` - Styling dengan animasi
 - `calculator.js` - Logika kalkulator
-- `calculator.ts` - Versi TypeScript (untuk referensi)
 
 ## Browser Support
 
